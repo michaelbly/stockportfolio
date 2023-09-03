@@ -1,0 +1,19 @@
+﻿filter_portfolio;variable;volume;color
+By Stock;AAPL;38321;#3D9970
+By Stock;ABNB;12988;#DC3545
+By Stock;AMZN;90215;#FFC107
+By Stock;GOOGL;21500;#454D55
+By Stock;META;43199;#007BFF
+By Stock;SPOT;18920;#28A745
+By Industry;Technology;38321;#E0EEE0
+By Industry;Technology;12988;#E0EEE0
+By Industry;Retail;90215;#DAA520
+By Industry;Technology;21500;#E0EEE0
+By Industry;Technology;43199;#E0EEE0
+By Industry;Technology;18920;#E0EEE0
+By Country;USA;38321;#E0EEE0
+By Country;USA;12988;#E0EEE0
+By Country;USA;90215;#E0EEE0
+By Country;USA;21500;#E0EEE0
+By Country;USA;43199;#E0EEE0
+By Country;Sweden;18920;#FFB90F
