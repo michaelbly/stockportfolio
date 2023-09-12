@@ -1,7 +1,7 @@
-﻿stock;value;country;industry
-AAPL;38321;USA;Technology
-ABNB;12988;USA;Technology
-AMZN;90215;USA;Retail
-GOOGL;21500;USA;Technology
-META;43199;USA;Technology
-SPOT;18920;Sweden;Technology
+﻿stock;stock_name_full;volume;country;industry
+AAPL;Apple;42;USA;Technology
+ABNB;Airbnb;21;USA;Technology
+AMZN;Amazon;18;USA;Retail
+GOOGL;Google;32;USA;Technology
+META;Meta;92;USA;Technology
+SPOT;Spotify;42;Sweden;Technology

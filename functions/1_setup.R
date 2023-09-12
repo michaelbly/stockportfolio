@@ -1,7 +1,7 @@
 #SETUP
 ##############
 ##############
-#rm(list=ls(all=T))
+rm(list=ls(all=T))
 
 #### 1 LOAD PACKAGES ###########################################################
 
@@ -54,3 +54,8 @@ conflict_prefer("rename", "dplyr")
 conflict_prefer("summarise", "dplyr")
 conflict_prefer("arrange", "dplyr")
 conflict_prefer("box", "shinydashboard")
+conflicts_prefer(dplyr::last)
+conflicts_prefer(dplyr::first)
+conflicts_prefer(bs4Dash::column)
+conflicts_prefer(bs4Dash::renderValueBox)
+conflicts_prefer(bs4Dash::valueBox)
